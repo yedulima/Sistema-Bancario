@@ -5,7 +5,7 @@
 
 A resolução de um desafio da [dio](https://www.dio.me) onde foi apresentado um problema de um banco que deseja mordenizar das suas operações utilizando-se da linguagem Python.
 
-Para isso, em primeira instância, ele um sistema que comporte, até o momento, **apenas 1 usuário**, onde o mesmo possa ser capaz de **sacar**, **depositar** e **verificar seu extrato bancário**.
+Para isso, em primeira instância, por enquanto ele precisa de um sistema que comporte **apenas 1 usuário**, onde o mesmo possa ser capaz de **sacar**, **depositar** e **verificar seu extrato bancário**.
 
 ## 🔧 Funções presentes no sistema
 - **Sacar**: Sacar um limite máximo de até 500 reais, caso não possua o valor requerido na conta devolve uma mensagem informando que não será possível sacar o dinheiro por falta de saldo.
